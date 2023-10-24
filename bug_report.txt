@@ -1,1 +1,17 @@
-
+ID: A1
+Title: Нажатие кнопки 'Оплатить' на главной странице не перенаправляет на страницу оплаты
+Project: Pokupaj.com
+STR: 1. Зайти на главную страницу сайта (ссылка_на_сайт)
+     2. Нажать кнопку Оплатить
+Environment: OS: Windows 11 x64 build 21H2
+	           Browser: Google Chrome v96.0.4664.45 x64
+Component: Кнопка Оплатить
+Build: 0.1.1
+Actual result: Нажатие кнопки Оплатить НЕ перенаправляет на страницу Оплаты
+Expected result: Нажатие кнопки Оплатить перенаправляет на страницу Оплаты
+Severity: Critical
+Priority: High
+Status: Open
+Author: Озгун Дарина Сергеевна
+Sign to: Смелый Виктор Семенович
+Attachments: ссылка_на_картинку_или_видео_с_багом 
